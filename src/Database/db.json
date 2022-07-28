@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "rahul dravid",
+      "username": "rahull",
+      "email": "r@dravid.com",
+      "phone": "1230004456",
+      "id": 2
+    },
+    {
+      "name": "zaheer khan",
+      "username": "zaheerk",
+      "email": "z@khan.com",
+      "phone": "1234568524",
+      "id": 4
+    },
+    {
+      "name": "vvs laxman",
+      "username": "vvs",
+      "email": "vvs@laxman.com",
+      "phone": "14789654120",
+      "id": 5
+    }
+  ]
+}
